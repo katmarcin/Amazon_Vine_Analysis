@@ -10,6 +10,8 @@ In this project, you’ll have access to approximately 50 datasets. Each one con
 
 
 
+ For this analysis, you'll determine if having a paid Vine review makes a difference in the percentage of 5-star reviews.
+
 
 
 ### Data-source:
@@ -29,6 +31,8 @@ Results: Using bulleted lists and images of DataFrames as support, address the f
 How many Vine reviews and non-Vine reviews were there?
 How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+
+
 
 There is a bulleted list that addresses the three questions for unpaid and paid program reviews (7 pt
 
