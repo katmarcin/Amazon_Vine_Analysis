@@ -2,7 +2,8 @@
 
 ## Overview of the Analysis
 
-The purpose of this analysis is to analyze Amazon reviews written by members of a paid Amazon Vine program against unpaid reviewers in order to determine if there is any bias toward favorable reviews from either group. Specifically, the dataset we will be using contains reviews on products categorized into "beauty". The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their products. Companies like SellBy pay a small fee to Amazon and provide products to Amazon Vine members, who are then required to publish a review. PySpark was used to intitiate and perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAdmin. We used PySpar, again to determine if there is any bias toward favorable reviews from Vine members in the dataset. Ultimately, the goal is to determine if having a paid Vine review makes a difference in the percentage of 5-star reviews.
+The purpose of this analysis is to analyze Amazon reviews written by members of a paid Amazon Vine program against unpaid reviewers in order to determine if there is any bias toward favorable reviews. Specifically, the dataset we used using contains reviews on products categorized into "beauty". The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their products. Companies like SellBy pay a small fee to Amazon and provide products to Amazon Vine members, who are then required to publish a review. 
+As part of the ETL process, PySpark was used to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAdmin. We were then able to determine if there was any bias toward favorable reviews from Vine members in the dataset, specifically if having a paid Vine review makes a difference in the percentage of 5-star reviews.
 
 
 ### Data-source:
