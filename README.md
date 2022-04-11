@@ -32,7 +32,13 @@ How many Vine reviews and non-Vine reviews were there?
 How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
+<img src=“https://github.com/katmarcin/Amazon_Vine_Analysis/blob/77eee94897700251c90d71576548c239183b9361/images/Screen%20Shot%202022-04-10%20at%2011.50.47%20PM.png" width="350" height="320"/>
 
+<img src="https://github.com/katmarcin/MechaCar_Statistical_Analysis/blob/8d842ea7cae9d201f0605488c1ef41b1533ed108/images/ttest_all.png" width="350" height="250"/>
+
+<img src=“https://github.com/katmarcin/Amazon_Vine_Analysis/blob/77eee94897700251c90d71576548c239183b9361/images/Screen%20Shot%202022-04-10%20at%2011.50.55%20PM.png">
+
+<img src=“https://github.com/katmarcin/Amazon_Vine_Analysis/blob/77eee94897700251c90d71576548c239183b9361/images/Screen%20Shot%202022-04-10%20at%2011.51.10%20PM.png" height="320"/>
 
 There is a bulleted list that addresses the three questions for unpaid and paid program reviews (7 pt
 
