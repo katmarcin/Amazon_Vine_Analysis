@@ -16,27 +16,20 @@ Amazon Web Services (AWS), S3, RDS, Google Colab, Apache Spark, PySpark Machine 
 
 ## Results
 
-
-Results: Using bulleted lists and images of DataFrames as support, address the following questions:
-
-How many Vine reviews and non-Vine reviews were there?
-How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+* How many Vine reviews and non-Vine reviews were there?
 
 <img src=“https://github.com/katmarcin/Amazon_Vine_Analysis/blob/77eee94897700251c90d71576548c239183b9361/images/Screen%20Shot%202022-04-10%20at%2011.50.47%20PM.png" width="350" height="320"/>
 
-<img src="https://github.com/katmarcin/MechaCar_Statistical_Analysis/blob/8d842ea7cae9d201f0605488c1ef41b1533ed108/images/ttest_all.png" width="350" height="250"/>
+* How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
-<img src=“https://github.com/katmarcin/Amazon_Vine_Analysis/blob/77eee94897700251c90d71576548c239183b9361/images/Screen%20Shot%202022-04-10%20at%2011.50.55%20PM.png">
+<img src=“https://github.com/katmarcin/Amazon_Vine_Analysis/blob/77eee94897700251c90d71576548c239183b9361/images/Screen%20Shot%202022-04-10%20at%2011.50.55%20PM.png" width="350" height="320"/>
 
-<img src=“https://github.com/katmarcin/Amazon_Vine_Analysis/blob/77eee94897700251c90d71576548c239183b9361/images/Screen%20Shot%202022-04-10%20at%2011.51.10%20PM.png" height="320"/>
+* What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
-There is a bulleted list that addresses the three questions for unpaid and paid program reviews (7 pt
+<img src=“https://github.com/katmarcin/Amazon_Vine_Analysis/blob/77eee94897700251c90d71576548c239183b9361/images/Screen%20Shot%202022-04-10%20at%2011.51.10%20PM.png" width="350" height="320"/>
+
 
 ## Summary
 
 
-Summary: In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
-
-The summary states whether or not there is bias, and the results support this statement 
-An additional analysis is recommended to support the statement 
+It is evident that there is a positivity bias for reviews in the Vine program for unpaid reviewers. The previous result that supports this statement reveals to us that 58% of unpaid reviewers gave 5-star reviews and only 35% of paid reviewers gave such ratings. This might indicate that paid reviewers take their critiquing more seriously and unpaid reviewers might not be doing in-depth analyses on their own reviews. If we were to perform an additional analysis to support the statement, it would be beneficial to 
