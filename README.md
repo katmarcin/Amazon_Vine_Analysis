@@ -31,7 +31,7 @@ Amazon Web Services (AWS), S3, RDS, Google Colab, Apache Spark, PySpark Machine 
 
 * How many Vine reviews and non-Vine reviews were there?
 
-<img src="images/Screen Shot 2022-04-10 at 11.50.47 PM.png" alt="Alt text" title="Optional title" width="500" height="250"/>
+<img src="images/Screen Shot 2022-04-10 at 11.50.47 PM.png" alt="Alt text" title="Optional title" width="450" height="250"/>
 
 * How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
@@ -39,7 +39,7 @@ Amazon Web Services (AWS), S3, RDS, Google Colab, Apache Spark, PySpark Machine 
 
 * What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
-<img src="images/Screen Shot 2022-04-11 at 12.13.57 AM.png" alt="Alt text" title="Optional title" width="500" height="250"/>
+<img src="images/Screen Shot 2022-04-11 at 12.13.57 AM.png" alt="Alt text" title="Optional title" width="550" height="250"/>
 
 
 ## Summary
