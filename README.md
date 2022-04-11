@@ -16,6 +16,18 @@ Amazon Web Services (AWS), S3, RDS, Google Colab, Apache Spark, PySpark Machine 
 
 ## Results
 
+* Paid Vine Program
+
+  * 647 total reviews
+  * 229 5-star reviews
+  * 35.4% of vine reviews were 5-star
+
+* Unpaid Reviews (non-Vine Program)
+
+  * 74,113 total reviews
+  * 43,217 5-star reviews
+  * 58.3% of unpaid reviews were 5-star
+
 * How many Vine reviews and non-Vine reviews were there?
 
 <img src="images/Screen Shot 2022-04-10 at 11.50.47 PM.png" alt="Alt text" title="Optional title" width="500" height="250"/>
@@ -26,11 +38,10 @@ Amazon Web Services (AWS), S3, RDS, Google Colab, Apache Spark, PySpark Machine 
 
 * What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
-<img src="images/Screen Shot 2022-04-10 at 11.51.10 PM.png" alt="Alt text" title="Optional title" width="500" height="250"/>
-
+<img src="images/Screen Shot 2022-04-11 at 12.13.57 AM.png" alt="Alt text" title="Optional title" width="500" height="250"/>
 
 
 ## Summary
 
 
-It is evident that there is a positivity bias for reviews in the Vine program for unpaid reviewers. The previous result that supports this statement reveals to us that 58% of unpaid reviewers gave 5-star reviews and only 35% of paid reviewers gave such ratings. This might indicate that paid reviewers take their critiquing more seriously and unpaid reviewers might not be doing in-depth analyses on their own reviews. If we were to perform an additional analysis to support the statement, it would be beneficial to 
+It is evident that there is isn't a positivity bias for reviewers in the Vine program compared to unpaid reviewers. The previous result that supports this statement reveals to us that 58% of unpaid reviewers gave 5-star reviews and only 35% of paid reviewers gave such ratings. This might indicate that paid reviewers take their critiquing more seriously and unpaid reviewers might not be doing in-depth analyses on their own reviews. However, with the Vine program, we would hope for better reviews on the products and therefore it might not be worth the financial investment into the program when we could get honest and better reviews from simply allowing anyone to review. If we were to perform an additional analysis to support the statement, it would be beneficial to 
